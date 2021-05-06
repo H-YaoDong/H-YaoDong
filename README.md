@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**H-YaoDong/H-YaoDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**H-YaoDong** is a ✨ _special_ ✨ name.
 <!--
 Here are some ideas to get you started:
 
